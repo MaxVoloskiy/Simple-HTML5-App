@@ -1,2 +1,2 @@
-# Simple-HTML5-App
-Full Stack course
+# Simple HTML5 App
+ Full Stack course
